@@ -18,8 +18,8 @@
 - 데이터 전처리 및 분석 알고리즘 구현
 
 #### 참고자료
-[[간단 정리]](https://github.com/koni114/University-Projects/blob/master/%EC%A4%91%EA%B3%A0%ED%8F%B0%20%EC%A0%81%EC%A0%95%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20%EC%B1%97%EB%B4%87.docx)
-[[발표 자료]](https://github.com/koni114/University-Projects/blob/master/1_project_Almago_%ED%97%88%EC%9E%AC%ED%9B%88.pdf)
+[[간단 정리- 다운로드]](https://github.com/koni114/University-Projects/blob/master/%EC%A4%91%EA%B3%A0%ED%8F%B0%20%EC%A0%81%EC%A0%95%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20%EC%B1%97%EB%B4%87.docx)   
+[[발표 자료]](https://github.com/koni114/University-Projects/blob/master/1_project_Almago_%ED%97%88%EC%9E%AC%ED%9B%88.pdf)  
 
 ### 개발자를 위한 프로젝트 관리 협업 도구 TeamUp 웹 구현
 #### 주요 내용
@@ -46,4 +46,4 @@
 - DB-Modeling 및 수리적 모델 설계, PM
 
 #### 참고자료
-- [[간단 정리 - 다운로드]](https://github.com/koni114/University-Projects/blob/master/%EB%83%89%EC%9E%A5%EA%B3%A0%20%EC%86%8D%20%EC%9E%AC%EB%A3%8C%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%8B%9D%EB%8B%A8%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C.docx)
+- [[간단 정리 - 다운로드]](https://github.com/koni114/University-Projects/blob/master/%EB%83%89%EC%9E%A5%EA%B3%A0%20%EC%86%8D%20%EC%9E%AC%EB%A3%8C%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%8B%9D%EB%8B%A8%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C.docx)  
