@@ -32,8 +32,8 @@
 - Front-End 및 Back-End 개발 DB-Modeling, KanBan, KPT 관리 등 PL 역할 담당
 
 #### 참고자료
-[[간단 정리 - 다운로드]](https://github.com/koni114/University-Projects/blob/master/Spring%20Framework%20%26%20Mybatis%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EA%B5%AC%ED%98%84.docx)
-[[제작 산출물]](https://github.com/koni114/University-Projects/blob/master/2_TeamUp_%ED%97%88%EC%9E%AC%ED%9B%88.pdf)
+[[간단 정리 - 다운로드]](https://github.com/koni114/University-Projects/blob/master/Spring%20Framework%20%26%20Mybatis%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EA%B5%AC%ED%98%84.docx)  
+[[제작 산출물]](https://github.com/koni114/University-Projects/blob/master/2_TeamUp_%ED%97%88%EC%9E%AC%ED%9B%88.pdf)  
 
 ### 냉장고 속 재료 정보를 이용한 맞춤형 식단 추천 시스템 개발
 #### 주요 내용
